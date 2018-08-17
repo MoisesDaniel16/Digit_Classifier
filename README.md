@@ -1,5 +1,5 @@
 # Digit_Classifier
-Multiple Linear Regressor which classifies written digits. PCA feature extraction and a cross-validation scheme are used to train the algorithm.
+Multiple Linear Regressor which classifies written digits. PCA feature extraction and cross-validation schemes are used to train the algorithm.
 
 ## Python setup
 

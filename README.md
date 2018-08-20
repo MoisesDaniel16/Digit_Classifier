@@ -7,13 +7,13 @@ Multiple Linear Regressor which classifies written digits. PCA feature extractio
 2.	The code was written on a 64 bits version of PyCharm Community Edition 2016.
 3.	The following packages were installed and used for the homework through ”pip tool installer” version 9.0.1:
 
-<center>
 Package | Version
   ---   |   ---
 numpy   | 1.11.2+mkl
 scipy   | 0.18.1
 sklearn | 0.18.1
-</center>
+
+
 4.	The “basicDemo.m” file was executed in MATLAB. Then the Workspace was saved as “basicDemo.mat”.
 5.	“basicDemo.mat” was stored in the same folder as the python project directory.
 
